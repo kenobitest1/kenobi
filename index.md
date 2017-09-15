@@ -52,8 +52,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
               user_name: 'caitlin',
               account_id: account_id,
               account_name: 'caitlin',
-              user_email: 'caitlin.mucha+200@useriq.com',
-              signup_date: '2017-09-14',
+              user_email: 'caitlin.mucha@useriq.com',
+              signup_date: '2017-09-15',
             })
             useriq.startTracker()
             var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
